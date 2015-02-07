@@ -10,12 +10,14 @@ export default {
     stats.domElement.style.position = 'fixed';
     stats.domElement.style.right  = '85px';
     stats.domElement.style.bottom = '0px';
+    stats.domElement.style['z-index'] = '9999';
 
     document.body.appendChild(stats.domElement);
 
     mem.domElement.style.position = 'fixed';
     mem.domElement.style.right    = '0px';
     mem.domElement.style.bottom   = '0px';
+    mem.domElement.style['z-index'] = '9999';
 
     document.body.appendChild(mem.domElement);
 
