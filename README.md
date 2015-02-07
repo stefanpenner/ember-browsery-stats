@@ -1,12 +1,13 @@
 # Ember-memory-stats
 
-This README outlines the details of collaborating on this Ember addon.
+Easiest way to get [paulirish's memory-stats.js](https://github.com/paulirish/memory-stats.js) memory stats and [mrdoobs stats.js](https://github.com/mrdoob/stats.js/)
+running in an ember-app. Please refer to the [memory-stats.js repo](https://github.com/paulirish/memory-stats.js) or [stats.js repo](https://github.com/mrdoob/stats.js/) for further documentation.
+
+![image](http://i.imgur.com/eUCFcAH.gif)
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `npm install --save-dev ember-browser-stats`
 
 ## Running
 

@@ -1,7 +1,7 @@
 {
-  "name": "ember-memory-stats",
+  "name": "ember-browsery-stats",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "quickly display browser related stats (fps/memory)",
   "directories": {
     "doc": "doc",
     "test": "tests"
