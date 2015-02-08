@@ -7,7 +7,7 @@ running in an ember-app. Please refer to the [memory-stats.js repo](https://gith
 
 ## Installation
 
-* `ember install:addon ember-browser-stats`
+* `ember install:addon ember-browsery-stats`
 
 ## Running
 
