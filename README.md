@@ -1,4 +1,4 @@
-# Ember-memory-stats
+# ember-browsery-stats
 
 Easiest way to get [paulirish's memory-stats.js](https://github.com/paulirish/memory-stats.js) memory stats and [mrdoobs stats.js](https://github.com/mrdoob/stats.js/)
 running in an ember-app. Please refer to the [memory-stats.js repo](https://github.com/paulirish/memory-stats.js) or [stats.js repo](https://github.com/mrdoob/stats.js/) for further documentation.
@@ -7,7 +7,7 @@ running in an ember-app. Please refer to the [memory-stats.js repo](https://gith
 
 ## Installation
 
-* `ember install:addon ember-browser-stats`
+* `ember install:addon ember-browsery-stats`
 
 ## Running
 
