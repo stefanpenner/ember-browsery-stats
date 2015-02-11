@@ -8,6 +8,18 @@ running in an ember-app. Please refer to the [memory-stats.js repo](https://gith
 ## Installation
 
 * `ember install:addon ember-browsery-stats`
+* To conditionally enable this addon only while in development:
+
+```javascript 
+// Brocfile.js
+var EmberApp = require('ember-cli/lib/broccoli/ember-app');
+
+var app = new EmberApp({
+  browseryStats: EmberApp.env() === 'development'
+});
+
+module.exports = app;
+```
 
 ## Running
 
